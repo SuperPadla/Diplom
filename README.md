@@ -2,9 +2,9 @@
 
 ## Документация
 
-* [План выполнения работ](https://github.com/Natali8686/Diplom/blob/master/Docs/Plan.md)
-* [Отчет о проведенном тестировании](https://github.com/Natali8686/Diplom/blob/master/Docs/Report.md)
-* [Отчет о проведенной автоматизации](https://github.com/Natali8686/Diplom/blob/master/Docs/Summary.md)
+* [План выполнения работ](https://github.com/SuperPadla/Diplom/blob/9c4ad2bb4249b9c805b13c731d10bf4144dc96eb/docs/Plan.md)
+* [Отчет о проведенном тестировании](https://github.com/SuperPadla/Diplom/blob/9c4ad2bb4249b9c805b13c731d10bf4144dc96eb/docs/Report.md)
+* [Отчет о проведенной автоматизации](https://github.com/SuperPadla/Diplom/blob/9c4ad2bb4249b9c805b13c731d10bf4144dc96eb/docs/Summary.md)
 
 
 
