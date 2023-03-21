@@ -33,7 +33,7 @@
 
 ### Для запуска приложения:
 
-1. С помощью Git cклонировать репозиторий командой git clone https://github.com/Natali8686/Diplom.git;
+1. С помощью Git cклонировать репозиторий командой git clone https://github.com/SuperPadla/Diplom.git;
 2. Запустить Docker;
 3. Открыть проект в IntelliJ IDEA;
 4. В терминале IntelliJ IDEA запустить необходимые базы данных и нужные контейнеры командой `docker-compose up`;
